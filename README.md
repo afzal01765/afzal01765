@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 
 
-![Afzalkhan's GitHub stats](https://github-readme-stats.vercel.app/api?afzal01765=anuraghazra&show_icons=true&theme=radical)![Afzalkhan's GitHub
+![Afzalkhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=afzal01765&show_icons=true&theme=radical)
+
